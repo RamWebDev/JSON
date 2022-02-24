@@ -1,0 +1,62 @@
+{
+  "jobRunId": "1B86413B-C8B2-4D24-9A85-DD15A6910F50",
+  "siteId": "EB86413B-C8B2-4D24-9A85-DD15A6910F59",
+  "jobStartTime": "2022-02-16T12:37:10.472Z",
+  "isCompleted": true,
+  "analysisStartTime": "2022-02-16T12:37:10.472Z",
+  "analysisEndTime": "2022-02-16T12:37:10.472Z",
+  "recommendations": [
+    {
+      "mapId": 1,
+      "consoleId": "AD9717C2-6E53-4FAF-A3CA-AED918638A80",
+      "consoleName": "C1",
+      "assetPath": "a1",
+      "opName": "op1",
+      "tagName": "tag1",
+      "blockName": "b1",
+      "intervalIdentifier": "i1",
+      "impactId": 0,
+      "signalTypeId": null,
+      "totalAlarms": 2340,
+      "reductionCount": 23,
+      "recommendedOndelay": 0,
+      "recommendedOffdelay": 2,
+      "userActionId": 0,
+      "result": "{}"
+    },{
+      "mapId": 1,
+      "consoleId": "AD9717C2-6E53-4FAF-A3CA-AED918638A80",
+      "consoleName": "C1",
+      "assetPath": "a1",
+      "opName": "op1",
+      "tagName": "tag2",
+      "blockName": "b1",
+      "intervalIdentifier": "i1",
+      "impactId": 0,
+      "signalTypeId": null,
+      "totalAlarms": 2340,
+      "reductionCount": 23,
+      "recommendedOndelay": 0,
+      "recommendedOffdelay": 2,
+      "userActionId": 0,
+      "result": "{}"
+    },{
+      "mapId": 1,
+      "consoleId": "AD9717C2-6E53-4FAF-A3CA-AED918638A80",
+      "consoleName": "C1",
+      "assetPath": "a1",
+      "opName": "op1",
+      "tagName": "tag3",
+      "blockName": "b1",
+      "intervalIdentifier": "i1",
+      "impactId": 0,
+      "signalTypeId": null,
+      "totalAlarms": 2340,
+      "reductionCount": 23,
+      "recommendedOndelay": 0,
+      "recommendedOffdelay": 2,
+      "userActionId": 0,
+      "result": "{}"
+    }
+  ]
+}
